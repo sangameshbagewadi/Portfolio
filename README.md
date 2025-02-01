@@ -21,7 +21,6 @@ Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful us
 Website contains: 
 - Header 
 - Home
-- About
 - Skills
 - Qualification
 - Services
