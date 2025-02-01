@@ -38,7 +38,7 @@ feel free to leave a star (much appreciated) fork it and customize as you like! 
 
 ## 🛠️ Technologies Used  
 - **HTML5**  
-- **CSS3 & Tailwind/Bootstrap**  
+- **CSS3 & Bootstrap**  
 - **JavaScript**  
 - **GitHub Pages** (Hosting)
 
