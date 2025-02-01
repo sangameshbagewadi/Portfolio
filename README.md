@@ -1,7 +1,7 @@
 # Portfolio
 
 ## 🚀 Live Demo  
-🔗 [View Portfolio](https://your-username.github.io/portfolio/)  
+🔗 [View Portfolio](https://sangameshbagewadi.github.io/Portfolio/)  
 ## 🎨 Features  
 ✅ Responsive Design  
 ✅ Projects Section with Live Demos  
