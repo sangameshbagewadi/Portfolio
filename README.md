@@ -42,16 +42,7 @@ feel free to leave a star (much appreciated) fork it and customize as you like! 
 - **JavaScript**  
 - **GitHub Pages** (Hosting)
 
-
-
-### **How to Customize It?**  
-- Replace `"your-username"` with your actual GitHub username.  
-- Replace **image URL**, **LinkedIn**, and **email** with your real details.  
-- Add more sections like **Blog**, **Testimonials**, etc., if needed.  
-
-Let me know if you need any modifications! 🚀
-
- - Inspired design by Bedimcode-Alexa design 🙌
+🚀 🙌 ⭐ ⭐ ⭐ ⭐ ⭐
 
 
 
